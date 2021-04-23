@@ -1,0 +1,14 @@
+﻿namespace Blis.Common
+{
+	public enum ReportType
+	{
+		NEGATIVE_ATTITUDE = 1,
+		SWEAR_WORD,
+		PARTIALITY,
+		ILLEGAL_PROGRAMS,
+		TEAMING,
+		INAPPROPRIATE_NICKNAME,
+		AWAY_GAME,
+		KILLED_BY_ENEMY
+	}
+}
